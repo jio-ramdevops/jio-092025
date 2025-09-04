@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to KK AWS WORLD vision of AWS is KKFUNDA</h1>
-<h1 align="center"> KK FUNDA AWESOME timings 7:00 AM to 9:00 AM</h1>
+<h1 align="center"> KK FUNDA AWESOME timings 6:00 AM to 9:00 AM</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
